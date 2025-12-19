@@ -9,7 +9,7 @@ A project that aims to recreate the E3 2006 demo of Super Mario Galaxy! Original
 - A Wii with Homebrew Channel (real)
 - A SD card or USB Drive
 - CleanRip
-- Files to download from the main branch on this GitHub
+- Files to download from the "releases" on this GitHub
 - Dolphin or Riivolution (currently not supported)
 
 # Step 1 - Wii Modification
