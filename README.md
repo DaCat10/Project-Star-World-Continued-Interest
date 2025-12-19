@@ -105,7 +105,8 @@ Then close the window, right-click on SUPER MARIO GALAXY - Properties and select
 If you have had any issues with anything, please let us know in “issues” on this GitHub page. I would be happy to help you.
 
 # 🛠️ The team / Credits
-TechGuys TechSpot & Games: Game tweker 
+TechGuys TechSpot & Games: Game tweker
+
 Me (DaCat) : Github repository and Discord server (i guess)
 
 ## I need your help, If you feel able to help me with this project, it would be a pleasure (I'm really very bad at SMG modding)
@@ -113,15 +114,25 @@ Me (DaCat) : Github repository and Discord server (i guess)
 # 🛠️ Original Project Star World Team / Credits
 
 galaxymaster2007
+
 Galaxy Master
+
 Mr-SiliconGraphics
+
 mariomadproductions
+
 SPG64
+
 togemet2
+
 saladplainzone
+
 Captain Byte
+
 SimonTime
+
 seeingvoices
+
 
 # 💬 Join us on Discord !
 We have a Discord server, join it to find out the latest announcements about the game and chat with the community.
