@@ -105,7 +105,7 @@ Then close the window, right-click on SUPER MARIO GALAXY - Properties and select
 If you have had any issues with anything, please let us know in “issues” on this GitHub page. I would be happy to help you.
 
 # 🛠️ The team / Credits
-TechGuys TechSpot & Games: Game tweker
+TechGuys TechSpot & Games: Game tweaker
 
 Me (DaCat) : Github repository and Discord server (i guess)
 
