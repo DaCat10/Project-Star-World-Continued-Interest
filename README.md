@@ -133,6 +133,17 @@ SimonTime
 
 seeingvoices
 
+Marionova
+
+Hiccup
+
+EmmaNerd
+
+blameitontherobot
+
+Zyphro
+
+SY24
 
 # 💬 Join us on Discord !
 We have a Discord server, join it to find out the latest announcements about the game and chat with the community.
