@@ -3,7 +3,7 @@ A project that aims to recreate the E3 2006 demo of Super Mario Galaxy! Original
 
 # 📒 Installation Guide
 
-Comming soon...
+## aaa
 
 # 🛠️ The team
 TechGuys TechSpot & Games: Game developer
